@@ -7,3 +7,5 @@ console.log("这是未commit的内容，需要使用git stash save")
 
 
 console.log("我是另一场未commit的，也git stash下")
+
+console.log("测试下commit的回退，这条会被commit，然后修改下")
